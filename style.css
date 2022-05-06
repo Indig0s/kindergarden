@@ -1,0 +1,34 @@
+html {
+    font-family: "Roboto";
+}
+.banner {
+    background-image: url(img/banner.jpg);
+    color: white;
+}
+.mission {
+    background-color: #FFE964;
+    text-align: center;
+}
+.ourTeam {
+    text-align: center;
+    background-color: #FF523D;
+    color: white;
+}
+.heads{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.contact {
+    background-color: #223C88;
+    color: white;
+}
+.contact__address::first-line {
+    font-weight: bold;
+}
+.contact__phone::first-line {
+    font-weight: bold;
+}
+.sect {
+    padding: 40px 120px
+}
